@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hello, I'm gallery / refitting
 
-<!--
-**refitting/refitting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am learning game hacking
+I have been learning C++ for about 4 months now
+My progess has been very good so far, i have made csgo2 externals and soon an internal
 
-Here are some ideas to get you started:
+- 🔷 **C++** - Learning the fundamentals of object-oriented programming, data structures, and algorithms.
+- 🌐 **HTML** - Exploring web development basics and structuring web pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 🔹 C++ ( game hacking, Reverse enginering )
+- 🔹 HTML
+
+
+### 📌 Projects
+- 🚧 https://hateful.cc (my website)
+- 
+
+### 📫 Connect with Me
+- 💬 Discord: refitting
+- 📸 Instagram: [@retiredcomboy]([https://instagram.com/yourhandle](https://www.instagram.com/retiredcomboy/))
