@@ -15,8 +15,6 @@ My progess has been very good so far, i have made csgo2 externals and soon an in
 
 ### 📌 Projects
 - 🚧 https://hateful.cc (my website)
-- 
-
+- Sprite.fun   (Csgo 2k18 HVH cheat)
 ### 📫 Connect with Me
-- 💬 Discord: refitting
-- 📸 Instagram: [@retiredcomboy]([https://instagram.com/yourhandle](https://www.instagram.com/retiredcomboy/))
+- 💬 Discord: stupidness
