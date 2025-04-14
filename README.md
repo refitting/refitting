@@ -1,20 +1,20 @@
-## 👋 Hello, I'm gallery / refitting
+# Hey, i'm gallery. 👋
+Luau, C++, Python
 
-### 🚀 About Me
-I am learning game hacking
-I have been learning C++ for about 4 months now
-My progess has been very good so far, i have made csgo2 externals and soon an internal
+I'll just be releasing all my projects on this page: Source Open / Closed.
 
-- 🔷 **C++** - Learning the fundamentals of object-oriented programming, data structures, and algorithms.
-- 🌐 **HTML** - Exploring web development basics and structuring web pages.
+## My Experiences
+[![My Skills](https://skillicons.dev/icons?i=lua,cpp,py)](https://skillicons.dev)
 
-### 🛠️ Tech Stack
-- 🔹 C++ ( game hacking, Reverse enginering )
-- 🔹 HTML
+[![My Skills](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
-### 📌 Projects
-- 🚧 https://hateful.cc (my website)
-- Sprite.fun   (Csgo 2k18 HVH cheat)
-### 📫 Connect with Me
-- 💬 Discord: stupidness
+**Lua** - Starter ( learning )
+
+**C++** - Normal
+
+**Python** - Decent
+
+## Contact me
+[![discord](https://img.shields.io/badge/discord-260C42?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354151948076580894/)
