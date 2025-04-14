@@ -2,7 +2,7 @@
 Luau, C++, Python
 
 I post my open source projects here such as
-Roblox external bases, Roblox script starters, and Discord bots & self bots!
+Roblox external bases, Roblox script starters, and Discord bots & self bots.
 
 ## My Experiences
 [![My Skills](https://skillicons.dev/icons?i=lua,cpp,py)](https://skillicons.dev)
