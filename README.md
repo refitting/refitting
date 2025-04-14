@@ -1,7 +1,8 @@
 # Hey, i'm gallery. 👋
 Luau, C++, Python
 
-I'll just be releasing all my projects on this page: Source Open / Closed.
+I post my open source projects here such as
+Roblox external bases, Roblox script starters, and Discord bots & self bots!
 
 ## My Experiences
 [![My Skills](https://skillicons.dev/icons?i=lua,cpp,py)](https://skillicons.dev)
